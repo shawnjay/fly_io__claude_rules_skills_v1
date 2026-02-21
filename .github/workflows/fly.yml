@@ -1,4 +1,4 @@
-name: Fly Deploy
+name: fly-deploy-v1-2026-02-21
 
 on:
   push:
